@@ -1,5 +1,3 @@
 # robotoe
 
-This is a Tic-Tac-Toe playing robotic system made using Image processing library (OpenCV) in python, any smartphone for camera and servo motors.
-
-It uses arduino for motor control.
+More details about the [project](https://medium.com/@bikashojha904/hsv-based-human-move-detection-in-chess-playing-robots-for-beginners-d39283cd04e9) .
